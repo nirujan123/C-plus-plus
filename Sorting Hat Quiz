@@ -13,7 +13,7 @@ int main() {
   std::cout << "The Sorting Hat\n";
   std::cout << "===============\n\n";
 
-  // ~~~~~~~~~~ Question 1 ~~~~~~~~~~
+// Part 1
 
   std::cout << "Q1) When I'm dead, I want people to remember me as:\n\n";
 
@@ -34,7 +34,7 @@ int main() {
   else if (answer1 == 4)
     gryffindor++;
 
-  // ~~~~~~~~~~ Question 2 ~~~~~~~~~~
+// Part 2
 
   std::cout << "\nQ2) Dawn or Dusk?\n\n";
 
@@ -65,7 +65,7 @@ int main() {
 
   }
 
-  // ~~~~~~~~~~ Question 3 ~~~~~~~~~~
+  // Part 3
 
   std::cout << "\nQ3) Which kind of instrument most pleases your ear?\n\n";
 
@@ -86,7 +86,7 @@ int main() {
   else if (answer3 == 4)
     gryffindor++;
 
-  // ~~~~~~~~~~ Question 4 ~~~~~~~~~~
+  // Part 4
 
   std::cout << "\nQ4) Which road tempts you the most?\n\n";
 
